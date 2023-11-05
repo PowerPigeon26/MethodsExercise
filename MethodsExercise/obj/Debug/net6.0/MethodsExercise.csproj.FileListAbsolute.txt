@@ -1,0 +1,14 @@
+E:\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+E:\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+E:\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+E:\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+E:\Repos\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
