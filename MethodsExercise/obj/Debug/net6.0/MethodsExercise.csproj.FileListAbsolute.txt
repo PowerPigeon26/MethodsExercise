@@ -12,3 +12,4 @@ E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise
 E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
 E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
 E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
+E:\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.sourcelink.json
